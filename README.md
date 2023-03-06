@@ -13,11 +13,11 @@ In this repository we will use various predictive models to see how accurate the
 
 Our aim in this project is to use these features to understand their impact/role on the selected models and how they can help us recognizing the companies that are close to bankrupcty.
  
-#Requirements
+# Requirements
 
 Pandas , NumPy ,Scikit-learn , Matplotlib , Seaborn,Random Forest Classifier, Decision Tree Classifier , Logistic Regreesion,SVC, KNN
 
-#Exploratory Data Analysis (EDA) :
+# Exploratory Data Analysis (EDA) :
 
 In the EDA part, analyzed every feature using histogram, checked the correlation of every feature with each other. Checked the correlation among the numeric columns. 
-Also correlation of categpric columns with Target columns.Correlation of numeric columns with target columns. Studied their heatmap.
+Also correlation of categpric columns with Target columns.Correlation of numeric columns with target columns. Studied their heatmap.Drew inferences.
