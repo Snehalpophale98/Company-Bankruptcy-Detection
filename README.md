@@ -27,7 +27,8 @@ Also correlation of categpric columns with Target columns.Correlation of numeric
 # Data Preprocessing:
 In this step I have checked for missing values and duplicate values. Balanced the imbalance data using SMOTE. Used train test split for splitting the data.
 
-
+# Feature Selection:
+   Chose 86 features using feature selection library
 # Model Selection:
 Tried different machine learning algorithms such as logistic regression, decision tree, random forest,KNN. The models are trained on the training set and evaluated on the testing set using different evaluation metrics such as accuracy, precision, recall, and F1-score.
 
