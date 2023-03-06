@@ -12,7 +12,8 @@ In this repository we will use various predictive models to see how accurate the
 1 Vector of labels
 
 Our aim in this project is to use these features to understand their impact/role on the selected models and how they can help us recognizing the companies that are close to bankrupcty.
- 
+# Important :
+ I have written the inferences in the ipynb file itself
 # Requirements
 
 Pandas , NumPy ,Scikit-learn , Matplotlib , Seaborn,Random Forest Classifier, Decision Tree Classifier , Logistic Regreesion,SVC, KNN
